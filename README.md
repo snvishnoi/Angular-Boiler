@@ -1,4 +1,4 @@
-# Angular 4.x webpack set with bootstrap
+# Angular 4.x webpack with bootstrap
 ## Install dependencies
 Run
 ```
