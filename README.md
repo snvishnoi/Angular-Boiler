@@ -22,10 +22,6 @@ After you add to command in package.json you can run the webserver like this:
 ```
 npm start
 ```
-## Testing
-```
-npm run test
-```
 ## Create production bundle
 ```
 npm run build
