@@ -6,7 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent { 
-  Entitle:string = " Canadian Air Transport Security Authority"
-  Fhtitle:string = "Administration canadienne de la sūreté du transport aérien"
-  
+  header:string = " This is the header "
 }
